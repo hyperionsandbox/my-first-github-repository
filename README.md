@@ -9,3 +9,11 @@ README file modified manually. One more edit at GitHub (my-first-github-reposito
 THER MODIFICATION ON REMOTE REPOSITORY
 
 --- NOTE: This new line was added locally on my PC (13/02/2026 07:41 AM)
+
+
+---- New modification on the README.md file and commited uing user defnied locally (14/02/26 07:07 AM)
+➜  my-first-github-repository git:(feature-1) git config user.name "hyperionsandbox"
+➜  my-first-github-repository git:(feature-1) git config user.email "hyperion.sandbox@gmail.com"
+➜
+
+
